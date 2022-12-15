@@ -1,0 +1,36 @@
+{
+  "modules": {
+    "webItems": [
+      {
+        "location": "system.preset.filters",
+        "weight": 100,
+        "url": "/my-web-item",
+        "context": "addon",
+        "target": {
+          "type": "page"
+        },
+        "name": {
+          "value": "Web Item"
+        },
+        "key": "my-web-item"
+      }
+    ]
+  },
+  "key": "mpac.gen.jessica-sanderss-sugarberry-for-crucibl-1671078941200",
+  "name": "Jessica-Sanders's sugarberry for Crucibl",
+  "version": "1.0",
+  "description": "Description of Jessica-Sanders's sugarberry for Crucibl",
+  "vendor": {
+    "name": "Atlassian Plugin Generator",
+    "url": "https://plugin-generator.services.atlassian.com"
+  },
+  "links": {
+    "self": "https://plugin-generator.services.atlassian.com/generated/mpac.gen.jessica-sanderss-sugarberry-for-crucibl-1671078941200"
+  },
+  "baseUrl": "https://plugin-generator.services.atlassian.com/generated/mpac.gen.jessica-sanderss-sugarberry-for-crucibl-1671078941200",
+  "authentication": {
+    "type": "none"
+  },
+  "enableLicensing": true,
+  "scopes": []
+}
